@@ -6,12 +6,12 @@ author: "barrelful"
 ---
 
 Lean ground beef burritos designed for meal prep with increased protein density per unit.  
-Uses gelatin, bone broth, and fat-free Greek yogurt to maintain moisture and texture despite very low fat content.  
-Designed for **10 consistent, portion-controlled burritos** with a deliberately higher meat load per burrito.
+Greek yogurt is deliberately reduced to avoid excess free moisture while preserving reheating stability.  
+Designed for **8 extra-meaty burritos** with a crisp exterior after freezer reheating.
 
 - ⏲️ Prep time: ~30 min  
 - 🍳 Cook time: ~25 min  
-- 🍽️ Servings: 10 burritos  
+- 🍽️ Servings: 8 burritos  
 - ❄️ Freezer-friendly (fully assembled burritos)
 
 ---
@@ -39,15 +39,15 @@ Designed for **10 consistent, portion-controlled burritos** with a deliberately 
 - 270 g beef bone broth
 - 4 g unflavoured gelatin powder
 - 57 g tomato paste
-- 280 g fat-free Greek yogurt
-- Seasoning mix, **to taste** (see above)
+- 250 g fat-free Greek yogurt
+- Seasoning mix, **to taste**
 
 ### Assembly (per burrito)
 - 1 soft taco tortilla
 - 30 g jalapeño cheddar dip
 - 1 street-size tortilla
 - 30 g fat-free refried black beans
-- 100 g beef filling
+- 90 g beef filling
 - 7 g grated **2% sharp cheddar**
 
 ---
@@ -57,79 +57,78 @@ Designed for **10 consistent, portion-controlled burritos** with a deliberately 
 ### **Seasoning Mix**
 1. Combine all seasoning ingredients in a bowl.
 2. Whisk thoroughly to ensure even distribution.
-3. Reserve unused seasoning in an airtight container.
+3. Store unused seasoning in an airtight container.
 
 ### **Beef Filling**
 1. Preheat a wide skillet over **medium heat**.
 2. Add ground beef and spread into an even layer so all meat contacts the pan.
 3. Apply downward pressure using a press or heavy pan.
 4. Cook undisturbed for **10 minutes** to maximise browning.
-5. Meanwhile, bloom gelatin by mixing it into **cold bone broth**.
+5. Bloom gelatin by mixing it into **cold bone broth**.
 6. Break beef into small, pebble-sized pieces.
-7. Add seasoning mix **gradually**, stirring and tasting as you go.
-8. Cook for **30 seconds** after the final addition to bloom spices.
+7. Add seasoning mix **gradually**, tasting as you go.
+8. Cook **30 seconds** after final seasoning addition.
 9. Stir in bone broth with gelatin and tomato paste.
 10. Scrape pan thoroughly to dissolve browned fond.
-11. Reduce heat to low and simmer **10–12 minutes**, stirring every 2–3 minutes.
+11. Reduce heat and simmer **10–12 minutes**, stirring every 2–3 minutes.
 12. Remove from heat and cool **10 minutes**.
 13. Fold in Greek yogurt until fully incorporated.
 
 ### **Assembly**
 1. Lay a soft taco tortilla flat.
-2. Spread **30 g cheese dip** evenly in a circle.
-3. Place the street tortilla centered over the cheese dip and press lightly to adhere.
-4. Spread **30 g refried beans** evenly on the street tortilla.
-5. Add **100 g beef filling**, keeping it centered.
+2. Spread **30 g cheese dip** evenly.
+3. Place street tortilla centered on top and press lightly.
+4. Spread **30 g refried beans** evenly.
+5. Add **90 g beef filling**, centered.
 6. Sprinkle **7 g grated cheddar** across the middle.
-7. Fold both ends inward.
-8. Roll tightly into a sealed burrito.
-9. Repeat for all portions.
+7. Fold ends inward and roll tightly into a sealed burrito.
+8. Repeat for all portions.
 
 ---
 
 ## Portioning & Storage
 
 **Per portion (1 burrito):**
-- Beef filling: ~100 g  
-- Total assembled burrito mass: ~275 g
+- Beef filling: ~90 g  
+- Total assembled burrito mass: ~260 g
 
 **Storage**
 - Refrigerator: 4 days (wrapped in parchment)
 - Freezer: 3 months (flash-freeze, then vacuum seal or tightly wrap)
 
-**Reheating**
-- Microwave: 60–90 seconds, wrapped in parchment  
-- Oven (from frozen): 30–35 min at **200 °C**, wrapped in foil
+**Reheating (recommended)**
+1. Microwave from frozen until fully defrosted.
+2. Air fry at **200 °C for 2 minutes** to crisp exterior.
 
 ---
 
 ## Nutritional Information (Approximate)
 
-*(1 portion = 1 assembled burrito, ~275 g cooked weight)*  
-*(Assumed total cooked yield: ~2.75 kg)*
+*(1 portion = 1 assembled burrito, ~260 g cooked weight)*  
+*(Assumed total cooked yield: ~2.1 kg)*
 
 | Nutrient | Per portion | Per 100 g |
 |---|---:|---:|
-| Energy | ~360 kcal | ~131 kcal |
-| Protein | ~35 g | ~12.7 g |
-| Total carbohydrates | ~28 g | ~10.2 g |
+| Energy | ~350 kcal | ~135 kcal |
+| Protein | ~34 g | ~13.1 g |
+| Total carbohydrates | ~27 g | ~10.4 g |
 | Sugars | ~4 g | ~1.5 g |
-| Fat | ~9 g | ~3.3 g |
-| Saturated fat | ~3 g | ~1.1 g |
-| Fibre | ~7 g | ~2.5 g |
-| Sodium | ~820 mg | ~298 mg |
+| Fat | ~9 g | ~3.5 g |
+| Saturated fat | ~3 g | ~1.2 g |
+| Fibre | ~7 g | ~2.7 g |
+| Sodium | ~800 mg | ~308 mg |
 
 > **Sodium assumption:**  
-> Nutrition assumes most (but not necessarily all) of the seasoning mix is used.  
+> Values assume most of the seasoning mix is used.  
 > 5 g salt ≈ 1,970 mg sodium total batch; packaged components estimated using standard values.
 
 ---
 
 ## Notes
 
-- Cheese dip under the street tortilla acts as an adhesive layer and improves freeze–thaw texture.
-- Seasoning is separated to allow flavour adjustment without compromising texture.
-- Flour remains in the seasoning to ensure proper dispersion and prevent clumping.
-- Gelatin and yogurt compensate for low fat and higher meat density per burrito.
-- Beef filling firms on cooling due to gelatin; avoid over-reduction during simmering.
-- Scale-based assembly is recommended for consistency.
+- Reducing yogurt prevents excess free water and improves post-freeze structure.
+- Gelatin remains sufficient to bind moisture despite lower dairy content.
+- Lower filling mass per burrito improves wrap integrity and reheating consistency.
+- Microwave + air fryer reheating restores exterior texture without drying the interior.
+- Cheese dip under the street tortilla acts as an adhesive and moisture barrier.
+- This version reflects **tested, real-world results**, not theoretical scaling.
